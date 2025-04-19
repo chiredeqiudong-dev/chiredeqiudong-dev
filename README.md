@@ -7,31 +7,17 @@
 
 ---
 
-### 🌟 **Quick Facts**
-- 🔍 **Exploring**: [AI-driven DevOps](https://github.com/topics/devops) · [Low-code Frameworks](https://github.com/topics/lowcode)  
-- 🧠 **Learning**: Kubernetes internals & Quantum computing basics  
-- 🤝 **Collaborate on**: Full-stack projects with modern tech stacks  
-- ✨ **Pronouns**: they/them  
+# 👋 Education
+
+**Undergraduate Student | Software Engineering**  
+🎯 School of Computer Science, GDOU University (2023-2027)  
 
 ---
 
-### 📌 **Tech DNA**
-```java
-# Always curious, forever learning
-current_stack = {"Java", "Java web", "SpringBoot", "Springcloud","MybatisPlus","Redis","MySQL","kafka"}
-tools = {"GitHub Actions", "Docker", "nginx"}
-```
-
----
-
-### 🎨 **Personal**
-- 🏓 Table tennis enthusiast  
-- ✍️ Technical blogging since 2020  
-- 🤫 Secret talent: Debugging impossible errors  
-
----
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=chiredeqiudong-dev" alt="Visitors" />
-</div>
-```
+### 💻 Tech Stack
+```json
+{
+  "Languages": ["Java", "Go"],
+  "Frameworks": ["Spring", "Spring MVC", "SpringBoot", "SpringCloud", “Mybatis”, "MyBatisPlus"],
+  "Tools": ["Redis", "MySQL", "Kafka", "Docker", "Nginx"]
+}
