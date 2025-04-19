@@ -2,10 +2,9 @@
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=chiredeqiudong-dev&theme=radical" alt="Streak" />
-  ![Tech Radar](https://img.shields.io/badge/Tech%20Radar-0A0A0A?logo=github)](https://chiredeqiudong-dev.github.io/tech-radar/)
-  ![Skillmap](https://skillicons.dev/icons?i=java,go,spring,docker,mysql)](https://skillicons.dev)
-</div>
-
+  
+  ![Skillmap](https://skillicons.dev/icons?i=java,go,spring,docker,mysql)
+  
 ---
 
 # 👋 Education
@@ -16,7 +15,7 @@
 
 ---
 
-# Tech Stack 🛠️
+# Language 🛠️
 
 <div align="center">
   <img src="https://img.shields.io/badge/-Java-red?logo=java&logoColor=white" alt="Java" />
